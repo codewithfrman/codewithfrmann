@@ -11,8 +11,8 @@ export default async function Home() {
               alt="Al Siam Profile"
               className="shadow-dark"
             />
-            <h1>Your Name</h1>
-            <p>Your expertise</p>
+            <h1>codewithfrman</h1>
+            <p>WhatsApp Bot Development</p>
             <div className="social-links">
               <a href="https://twitter.com/" target="_blank">
                 <i className="fa fa-twitter" />
@@ -20,7 +20,7 @@ export default async function Home() {
               <a href="https://facebook.com/" target="_blank">
                 <i className="fa fa-facebook" />
               </a>
-              <a href="https://github.com/" target="_blank">
+              <a href="https://github.com/codewithfrman" target="_blank">
                 <i className="fa fa-github" />
               </a>
               <a href="https://instagram.com/" target="_blank">
