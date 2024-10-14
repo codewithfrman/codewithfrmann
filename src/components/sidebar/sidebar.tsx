@@ -30,7 +30,7 @@ const Sidebar = () => {
         <ul className="nav">
           <li onClick={handleClose}>
             <Link href="/" className={`${pathUrl == "/" && "active"}`}>
-              <i className="fa fa-home" /> Home
+              <i className="fa fa-home" /> Dashboard
             </Link>
           </li>
           <li onClick={handleClose}>
@@ -38,7 +38,7 @@ const Sidebar = () => {
               href="/about"
               className={`${pathUrl == "/about" && "active"}`}
             >
-              <i className="fa fa-user" /> About
+              <i className="fa fa-user" /> About me
             </Link>
           </li>
           <li onClick={handleClose}>
@@ -51,30 +51,17 @@ const Sidebar = () => {
           </li>
           <li onClick={handleClose}>
             <Link
-              href="/portfolio"
-              className={`${pathUrl == "/portfolio" && "active"}`}
-            >
-              <i className="fa fa-briefcase" /> Portfolio
-            </Link>
-          </li>
-          <li onClick={handleClose}>
-            <Link href="/blog" className={`${pathUrl == "/blog" && "active"}`}>
-              <i className="fa fa-envelope" /> Blog
-            </Link>
-          </li>
-          <li onClick={handleClose}>
-            <Link
               href="/contact"
               className={`${pathUrl == "/contact" && "active"}`}
             >
-              <i className="fa fa-comments" /> Contact
+              <i className="fa fa-comments" /> Contact us 
             </Link>
           </li>
         </ul>
         <div className="copyright">
-          Created with ❤️ By{" "}
-          <a href="http://alsiam.com" target="_blank" rel="noopener noreferrer">
-            Al Siam
+          Copyright ☤ By{" "}
+          <a href="http://dcodefrmn.vercel.app" target="_blank" rel="noopener noreferrer">
+            CodewithFrman
           </a>
         </div>
       </div>
