@@ -16,8 +16,8 @@ const Contact: NextPage = () => {
               <div className="icon">
                 <i className="fa fa-map-marker" />
               </div>
-              <h4>Address</h4>
-              <p>Your Address, City</p>
+              <h4>Indonesia</h4>
+              <p>Kalimantan Selatan, Banjarmasin</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
@@ -25,8 +25,8 @@ const Contact: NextPage = () => {
               <div className="icon">
                 <i className="fa fa-phone" />
               </div>
-              <h4>Call Us On</h4>
-              <p>+99 **********</p>
+              <h4>Chat me on WhatsApp</h4>
+              <p>+1 941 941 8284</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
@@ -35,7 +35,7 @@ const Contact: NextPage = () => {
                 <i className="fa fa-envelope" />
               </div>
               <h4>Email</h4>
-              <p>your@email.com</p>
+              <p>frmnzzx@gmail.com</p>
             </div>
             {/* contact-info-item Ended */}
           </div>
@@ -48,7 +48,7 @@ const Contact: NextPage = () => {
                     <input
                       type="text"
                       className="form-control"
-                      placeholder="Name*"
+                      placeholder="Nama Anda*"
                     />
                   </div>
                 </div>
@@ -57,7 +57,7 @@ const Contact: NextPage = () => {
                     <input
                       type="email"
                       className="form-control"
-                      placeholder="Email*"
+                      placeholder="WhatsApp*"
                     />
                   </div>
                 </div>
@@ -68,7 +68,7 @@ const Contact: NextPage = () => {
                     <input
                       type="text"
                       className="form-control"
-                      placeholder="Subject*"
+                      placeholder="Judul*"
                     />
                   </div>
                 </div>
@@ -78,7 +78,7 @@ const Contact: NextPage = () => {
                   <div className="form-group">
                     <textarea
                       className="form-control"
-                      placeholder="Your Message*"
+                      placeholder="Pesan / Saran Anda*"
                       defaultValue={""}
                     />
                   </div>
@@ -87,7 +87,7 @@ const Contact: NextPage = () => {
               <div className="row">
                 <div className="col-12 padd-15">
                   <button type="submit" className="btn">
-                    Send Message
+                    Kirim Tanggapan
                   </button>
                 </div>
               </div>
