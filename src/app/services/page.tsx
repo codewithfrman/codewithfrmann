@@ -15,10 +15,8 @@ const Service: NextPage = () => {
       <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-paint-brush" /></div>
-          <h4>Professional Logo Design</h4>
-          <p>Elevate your brand with a unique and memorable logo. Our expert designers will create a distinctive
-            logo
-            that reflects your business identity and leaves a lasting impression on your audience.</p>
+          <h4>Premium WhatsApp Bot Script</h4>
+          <p>Jadikan WhatsApp sebagai alat pemasaran yang efektif dengan Script Premium WhatsApp Bot kami! Dirancang untuk meningkatkan keterlibatan pelanggan, script ini memungkinkan Anda untuk mengirim pesan massal, melakukan promosi, dan menjawab pertanyaan secara otomatis dengan mudah.</p>
         </div>
       </div>
       {/* Service Item 1 End */}
@@ -26,10 +24,8 @@ const Service: NextPage = () => {
       <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-laptop" /></div>
-          <h4>Custom Web Design</h4>
-          <p>Create a stunning online presence with our custom web design services. Wel will tailor a website that
-            not only
-            looks impressive but also delivers a seamless user experience, helping you achieve your online goals.
+          <h4>Web Development</h4>
+          <p>Pembuatan website, e-commerce, landing page, dan perbaikan bug
           </p>
         </div>
       </div>
@@ -38,10 +34,8 @@ const Service: NextPage = () => {
       <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-wordpress" /></div>
-          <h4>WordPress Development</h4>
-          <p>Harness the power of WordPress for your website. Our experts will build a feature-rich and scalable
-            WordPress site that empowers you to manage content effortlessly and stay ahead in the digital
-            landscape.</p>
+          <h4>Virtual Assistance</h4>
+          <p>Assistant virtual berbasis ai yang diaplikasikan pada WhatsApp,mencakup banntuan atau tugas-tugas keseharian secara online, seperti penjadwalan, management, hingga berbagai fitur lainnya.</p>
         </div>
       </div>
       {/* Service Item 3 End */}
@@ -49,10 +43,9 @@ const Service: NextPage = () => {
       <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-code" /></div>
-          <h4>Web Development</h4>
-          <p>Turn your digital ideas into reality with our web development solutions. We specialize in crafting
-            robust
-            and dynamic websites that are tailored to meet your specific business needs and objectives.</p>
+          <h4>Cloud Storage & Backup Services</h4>
+          <p>Jasa penyimpanan cloud memberikan ruang penyimpanan online yang aman bagi individu atau perusahaan untuk menyimpan dan mengelola data.
+          Penyimpanan file, backup data, hosting website, cloud security.</p>
         </div>
       </div>
       {/* Service Item 4 End */}
@@ -60,10 +53,8 @@ const Service: NextPage = () => {
       <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-film" /></div>
-          <h4>Professional Video Editing</h4>
-          <p>Enhance your video content with our professional video editing services. We will transform your raw
-            footage
-            into polished, engaging videos that captivate your audience and convey your message effectively.</p>
+          <h4>Bug Fixing & Code Optimization </h4>
+          <p>Menawarkan perbaikan bug atau masalah dalam kode serta mengoptimalkan kinerja program yang sudah ada.</p>
         </div>
       </div>
       {/* Service Item 5 End */}
@@ -71,11 +62,10 @@ const Service: NextPage = () => {
       <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-rocket" /></div>
-          <h4>SEO Optimization</h4>
-          <p>Boost your online visibility and drive organic traffic to your website with our SEO optimization
-            services.
-            Our experts employ proven strategies to improve your search engine rankings and grow your online
-            presence.
+          <h4>Software Testing & QA (Quality Assurance)</h4>
+          <p>menyediakan pengujian code untuk memastikan aplikasi bebas dari bug dan berfungsi dengan baik sesuai spesifikasi.
+          
+          Contoh: Pengujian fungsional, pengujian otomatis (automated testing).
           </p>
         </div>
       </div>
